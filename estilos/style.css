@@ -29,17 +29,17 @@ main {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 463px;
-    width: 230px;
-    background: url('../imagens/frame-iphone2.png') no-repeat;
+    height: 629px;
+    width: 311px;
+    background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
 #tela {
     position: relative;
-    top: 59px;
-    left: 17px;
-    height: 348px;
-    width: 197px;
+    top: 81px;
+    left: 23px;
+    height: 469px;
+    width: 265px;
 }
 
 #redes-sociais {
@@ -47,8 +47,8 @@ main {
 }
 
 #redes-sociais img {
-    width: 40px;
-    margin: 8px;
+    width: 57px;
+    margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.411);
     box-sizing: border-box;
